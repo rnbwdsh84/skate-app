@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skate-app/static/css/main.162125bb.css",
+    "main.js": "/skate-app/static/js/main.cb2388f8.js",
+    "static/js/787.1fe0143a.chunk.js": "/skate-app/static/js/787.1fe0143a.chunk.js",
+    "index.html": "/skate-app/index.html",
+    "main.162125bb.css.map": "/skate-app/static/css/main.162125bb.css.map",
+    "main.cb2388f8.js.map": "/skate-app/static/js/main.cb2388f8.js.map",
+    "787.1fe0143a.chunk.js.map": "/skate-app/static/js/787.1fe0143a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.162125bb.css",
+    "static/js/main.cb2388f8.js"
+  ]
+}
